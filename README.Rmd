@@ -1,16 +1,6 @@
----
-title: "TOTVS Forecast"
-author: "Vinicius Lucena"
-date: "18 de fevereiro de 2018"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
----
+##The text with plost and imagens can be see in the following link:
+http://rpubs.com/viniciuslucenasouza/totvs-data-challenge
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Data Challenge
 
@@ -20,7 +10,7 @@ This challange was taken in order to persuit a position in TOTVS labs and also f
 
 ###The Data Challenge given
 
->Using the given dataset of transactions (notas fiscais eletrÙnicas) from a restaurant:  
+>Using the given dataset of transactions (notas fiscais eletr√¥nicas) from a restaurant:  
 https://github.com/TOTVS/MDMStatic/blob/master/code-challenge/TOTVS%20Labs%20-%20AI%20Challenge%20-%20Dataset.zip?raw=true   
 1. Parse and extract the data.  
 2. Identify a pattern on any set of fields that can help predict how much a customer will spend.  
