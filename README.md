@@ -167,7 +167,7 @@ plot(HWModel)
 Forecasting
 -----------
 
-We can plot the predicted sells with a 80% and 95%
+We can plot the predicted sales with a 80% and 95%
 
 ``` r
 plot(forecast(HoltWinters(timeSeriesVendas), 7))
