@@ -1,6 +1,9 @@
 ---
 title: "TOTVS Forecast"
-output: github_document
+output: 
+  html_document:
+    toc: true
+    toc_float: true
 ---
 
 ## Data Challenge
@@ -176,3 +179,5 @@ And the last thing to say is that the data could be parsed in a easier way for t
 Thankx :)
 
 Any question, find me at vinicius.lucena.souza@gmail.com
+
+
